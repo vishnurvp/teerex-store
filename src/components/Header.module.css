@@ -1,0 +1,20 @@
+.header {
+  background-color: gray;
+  padding-left: 10vw;
+  padding-right: 10vw;
+  display: flex;
+  justify-content: space-between;
+  color: rgb(255, 255, 255);
+  font-weight: bolder;
+  font-size: large;
+}
+
+.heading {
+  width: 20vw;
+}
+
+.cartbtn {
+  width: 20vw;
+  font-size: large;
+  font-weight: bold;
+}
